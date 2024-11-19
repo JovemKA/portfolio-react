@@ -1,0 +1,14 @@
+.game {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  input {
+    padding: 10px;
+    width: 200px;
+  }
+  
